@@ -1,6 +1,6 @@
 package com.sbi.loans.homeloans;
 
-public class TenthClass {
+public class TenthClass  {
 
 
 	public static void main(String[] args) {
